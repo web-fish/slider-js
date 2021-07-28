@@ -264,19 +264,25 @@ body {
 }
 
 .slider__img-ford {
-  background: url("/img/img_2.jpg") 0 0/100% 100% no-repeat;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
   height: 100%;
   width: 100%;
 }
 
 .slider__img-dodge {
-  background: url("/img/img_3.jpg") 0 0/100% 100% no-repeat;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
   height: 100%;
   width: 100%;
 }
 
 .slider__img-chevrolet {
-  background: url("/img/img_1.jpg") 0 0/100% 100% no-repeat;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
   height: 100%;
   width: 100%;
 }
